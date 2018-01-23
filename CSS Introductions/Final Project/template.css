@@ -1,0 +1,78 @@
+h1{Font-family:Copperplate;
+    font-size:4em;
+    background-color:#3e9994;
+    width: 100%;
+}
+
+h2{Font-family:Copperplate;
+    font-size:2em;
+}
+
+h3{Font-family:Copperplate;}
+
+.navigate{Font-family:Copperplate;
+    color: white
+    align:center
+    padding-left:0px;
+    margin-left: 0px;
+    background-color:#d7d9d8;
+}
+
+
+Body{color: white;
+    background-image:url(finalimgs/X.png), url(finalimgs/X.png);
+    Background-repeat:repeat-y;
+    Background-position: left, right;
+    background-color: #160500;
+    
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    
+    font-family:Trebuchet MS
+}
+
+
+a{text-decoration: none;}
+
+a:link{
+        color: white;
+}
+
+a:visited{
+        color:#3e9994 ;
+}
+
+a:hover{
+        color: yellow;
+}
+
+
+
+#description{width: 50%;
+vertical-align: text-top
+}
+
+.picture{width:690px;
+    border-color: #3e9994;
+    border-style: outset;
+    border-width: 10px;
+    margin-bottom: 20px;
+    margin-left: 15px
+}
+
+.gallery{width: 690px;
+border-style: outset;
+border-width: 15px;
+padding: 7px;
+background-color:#fdf6e3 ;
+border-color: #5aaea1;
+}
+
+.one{ border-top-left-radius: 40px;}
+
+.two{ border-top-right-radius: 40px;}
+
+.three{ border-bottom-left-radius: 40px;}
+
+.four{ border-bottom-right-radius: 40px;}

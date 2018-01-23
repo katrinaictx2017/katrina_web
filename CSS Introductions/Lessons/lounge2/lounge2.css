@@ -1,0 +1,19 @@
+body{Font-size:small;}
+
+h1{font-size:150%;}
+
+Body{font-family:Verdana, helvetica, arial;}
+
+h1,h2{color:#007e7e;}
+
+h2{font-size:130%;} 
+
+p{line-height:1.6em;}
+
+#guarantee{background-color:#a7cece; border-style:dashed; border-color:white;border-width:3px;
+    font-family:serif,georgia,times new roman,times; font-style:italic;color:#444444;line-height: 1.9em;
+    padding-left: 80px; margin: 30px; background-image:url(images/star.gif); background-repeat:no-repeat;
+    background-position: top left;}
+    
+    
+    
