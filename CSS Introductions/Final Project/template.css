@@ -2,6 +2,7 @@ h1{Font-family:Copperplate;
     font-size:4em;
     background-color:#3e9994;
     width: 100%;
+    text-shadow: 8px 5px black;
 }
 
 h2{Font-family:Copperplate;
@@ -12,7 +13,7 @@ h3{Font-family:Copperplate;}
 
 .navigate{Font-family:Copperplate;
     color: white
-    align:center
+    align: center;
     padding-left:0px;
     margin-left: 0px;
     background-color:#d7d9d8;
